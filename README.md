@@ -3,7 +3,7 @@ A demonstration of generating a major scale using a passive buzzer with an Ardui
 
 **Do not forget to turn your audio up.**
 
-[![Watch on YouTube](https://i9.ytimg.com/vi/AVXv1P7u4dE/mqdefault.jpg?sqp=CLDDxMAG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTyhKMA8=&rs=AOn4CLBybtWbFfoYpewYuod2ZE0wQSxkTA)](https://youtu.be/AVXv1P7u4dE)
+[![Watch on YouTube](https://i.postimg.cc/FsTT9zSj/passive-buzzer.jpg)](https://youtu.be/AVXv1P7u4dE)
 
 Passive buzzers use PWM generating audio to make the air vibrate. The following frequencies relate to the notes of the major scale:
 
